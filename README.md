@@ -2,7 +2,7 @@
 ## Overview
 Examples of how to query data from the WIWB using python and examples of how machine learning algorithms could be applied to that data.
 
-## contents
+## Contents
 The `query_examples.ipynb` notebook contains examples of queries to the various datasources in the WIWB.
 
 The `usage_examples.ipynb` contains examples of how machine learning algorithms can be applied to data from the WIWB. It includes an example of univariate timeseries forecasting using Facebooks Prophet model. As wel as two examples of anomaly detection using the IsolationForest model. 
